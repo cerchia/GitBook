@@ -14,9 +14,9 @@ Furthermore, **you need sufficient stablecoins** (i.e., the digital image on the
 
 Mainnet Contract address for USDC on Avalanche: [0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E](https://snowtrace.io/token/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e)
 
-Mainnet Contract address for ZIL
+Mainnet Contract address for ZUSDT on Zilliqua:
 
-[https://zilstream.com/tokens/zusdt](https://zilstream.com/tokens/zusdt)\
+[https://viewblock.io/zilliqa/address/zil1sxx29cshups269ahh5qjffyr58mxjv9ft78jqy ](https://viewblock.io/zilliqa/address/zil1sxx29cshups269ahh5qjffyr58mxjv9ft78jqy)\
 \
 Thus, ensure you hold the needed stablecoins and some AVAX or ZIL in your wallet**.**&#x20;
 
