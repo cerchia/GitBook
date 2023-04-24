@@ -1,6 +1,6 @@
 # Prerequisites
 
-**Connect with a wallet.** We advise on commonly used browser wallets, depending on the blockchain you plan to use: for Avalanche, we suggest using the **MetaMask** wallet (browser extension); for Zilliqa, the extension **ZillPay**. Also, make sure you are using a Wallet Address with which you successfully have performed the third-party [KYX-check](../legal/kyx-aml.md).
+**Connect with a wallet.** We advise on commonly used browser wallets, depending on the blockchain you plan to use: for Avalanche, we suggest using the **MetaMask** wallet (browser extension); for Zilliqa, the extension **ZillPay**. Also, make sure you are using a Wallet Address with which you successfully have performed the third-party [KYX-check](../legal/kyb-aml.md).
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Select Blockchain</p></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # How to buy protection
 
-As a protection buyer, you must ensure you fulfil the [prerequisites](../how-does-risk-transfer-work/prerequisites.md) to access the marketplace. Also, you must have completed the [onboarding](../legal/kyx-aml.md). Note that currently, only professional investors can participate in the marketplace.
+As a protection buyer, you must ensure you fulfil the [prerequisites](../how-does-risk-transfer-work/prerequisites.md) to access the marketplace. Also, you must have completed the [onboarding](../legal/kyb-aml.md). Note that currently, only professional investors can participate in the marketplace.
 
 When buying protection, opt for the marketplace and choose a market which reflects your preferences.
 

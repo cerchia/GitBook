@@ -47,7 +47,7 @@
 
 ## Legal
 
-* [KYX/ AML](legal/kyx-aml.md)
+* [KYB/ AML](legal/kyb-aml.md)
 * [Master Agreement + Termsheet](legal/master-agreement-+-termsheet.md)
 * [Legal Structure and Liability](legal/legal-structure-and-liability.md)
 
