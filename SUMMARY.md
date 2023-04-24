@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction - please delete](README.md)
+* [Introduction](README.md)
 
 ## How does Risk Transfer work
 
