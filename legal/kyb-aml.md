@@ -1,4 +1,4 @@
-# KYX/ AML
+# KYB/ AML
 
 Regulatory Compliance is factored into the design of Direct Risk Transfer (DRT) for a sustainable business model and at the core of our operations.
 

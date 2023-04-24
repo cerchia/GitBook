@@ -30,9 +30,9 @@
 
 ## Architecture
 
-* [Zilliqa](architecture/zilliqa.md)
-* [Avalanche](architecture/avalanche.md)
 * [Stack](architecture/stack.md)
+* [Avalanche](architecture/avalanche.md)
+* [Zilliqa](architecture/zilliqa.md)
 
 ## Governance and Tokenomics
 
