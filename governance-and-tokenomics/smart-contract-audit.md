@@ -1,5 +1,9 @@
 # Smart Contract Audit
 
-Find below the Smart Contract Audit on DRT by PeckShield. There were no severe or high risk findings, all findings have been mitigated.
+Find below the Smart Contract Audit on DRT by PeckShield. There were no critical or high severity findings, all findings have been mitigated.
+
+
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Audit findings (all mitigated)</p></figcaption></figure>
 
 {% file src="../.gitbook/assets/PeckShield-Audit-Report-CerchiaDRT-v1.0.pdf" %}
