@@ -39,6 +39,7 @@
 * [DRSK Association and Governance](governance-and-tokenomics/drsk-association-and-governance.md)
 * [DRSK Tokenomics](governance-and-tokenomics/drsk-tokenomics.md)
 * [Whitepapaper + Improvement Process](governance-and-tokenomics/whitepapaper-+-improvement-process.md)
+* [Smart Contract Audit](governance-and-tokenomics/smart-contract-audit.md)
 
 ## Partnerships
 
