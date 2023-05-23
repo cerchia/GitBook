@@ -1,6 +1,6 @@
 # Becoming a partner
 
-We aim to reduce the global Protection Gap to create a resilient world. As a technology platform, we seek ecosystem partners to help build and expand the decentralized platform. Visit our website and reach out to us to further discuss.
+We aim to reduce the global Protection Gap to create a resilient world. As a technology platform, we seek ecosystem partners to help build and expand the decentralized platform. Visit our [website](https://www.cerchia.io) and reach out to us to further discuss.
 
 Strategic partnerships could be in the areas of:
 
