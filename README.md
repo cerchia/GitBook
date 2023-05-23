@@ -15,7 +15,7 @@ Year after year, we experience more and more severe natural catastrophes due to 
 **Links:**
 
 * Website: [https://www.cerchia.io/](https://www.cerchia.io/)
-* Telegram: tbd
+* Telegram: [https://t.me/cerchia\_io](https://t.me/cerchia\_io)
 * Twitter:[ ](https://twitter.com/cerchia\_io?lang=de)[https://twitter.com/cerchia\_io](https://twitter.com/cerchia\_io?lang=de)/
 * LinkedIn: [https://www.linkedin.com/company/cerchia-ag/](https://www.linkedin.com/company/cerchia-ag/)
 
