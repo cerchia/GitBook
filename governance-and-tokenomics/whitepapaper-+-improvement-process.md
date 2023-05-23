@@ -6,8 +6,6 @@ description: >-
 
 # Whitepaper + Improvement Process
 
-{% file src="../.gitbook/assets/DRSK_Whitepaper.pdf" %}
-DRSK Whitepaper for download
-{% endfile %}
+{% file src="../.gitbook/assets/DRSK_Whitepaper (1).pdf" %}
 
-Starting from the DRSK whitepaper, improvements to the protocol and governance are being put to the vote and tracked in the Improvement Process.
+Starting from the DRSK whitepaper, improvements to the marketplace and governance are being put to the vote and tracked in the Improvement Process.
