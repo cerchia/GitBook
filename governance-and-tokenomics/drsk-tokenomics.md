@@ -1,3 +1,3 @@
 # DRSK Tokenomics
 
-TBA
+{% file src="../.gitbook/assets/Tokenomics-Litepaper.pdf" %}
