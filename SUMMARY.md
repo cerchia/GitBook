@@ -10,6 +10,7 @@
 * [Risk Standards and Data](how-does-risk-transfer-work/risk-standards-and-data.md)
 * [Decentralized Marketplace](how-does-risk-transfer-work/decentralized-marketplace.md)
 * [Prerequisites](how-does-risk-transfer-work/prerequisites.md)
+* [Short demo](how-does-risk-transfer-work/short-demo.md)
 * [Glossary](how-does-risk-transfer-work/glossary.md)
 
 ## Protection Buyer
@@ -38,7 +39,7 @@
 
 * [DRSK Association and Governance](governance-and-tokenomics/drsk-association-and-governance.md)
 * [DRSK Tokenomics](governance-and-tokenomics/drsk-tokenomics.md)
-* [Whitepaper + Improvement Process](governance-and-tokenomics/whitepaper-+-improvement-process.md)
+* [Whitepaper + Improvement Process](governance-and-tokenomics/whitepapaper-+-improvement-process.md)
 * [Smart Contract Audit](governance-and-tokenomics/smart-contract-audit.md)
 
 ## Partnerships
