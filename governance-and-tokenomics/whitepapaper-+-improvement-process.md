@@ -1,6 +1,6 @@
 ---
 description: >-
-  The white paper is based on our 1st blockchain offering on Ziliqa but also
+  The white paper is based on our 1st blockchain offering on Zilliqa but also
   applies to Avalanche.
 ---
 
