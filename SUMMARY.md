@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Onboarding](README.md)
-* [Introduction](README.md)
+* [Introduction](<README (1).md>)
 
 ## How does Risk Transfer work
 
