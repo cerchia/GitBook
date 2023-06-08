@@ -10,6 +10,8 @@ If you haven't done so, please install a wallet like Metamask. We will offer int
 
 For Metamask, follow this [link](https://metamask.io/download/).
 
+For setup for Avalanche, follow this [link](https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche).
+
 {% hint style="info" %}
 Make sure you save your private key and backup phrase!
 
