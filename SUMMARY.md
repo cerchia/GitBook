@@ -35,6 +35,7 @@
 * [Stack](architecture/stack.md)
 * [Avalanche](architecture/avalanche.md)
 * [Zilliqa](architecture/zilliqa.md)
+* [Wallet](architecture/wallet.md)
 
 ## Governance and Tokenomics
 
