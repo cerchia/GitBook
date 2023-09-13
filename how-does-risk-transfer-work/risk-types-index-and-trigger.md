@@ -2,7 +2,7 @@
 
 In the context of risk transfer, various types of risk can be transferred. Event risk refers to the risk of a specific event, such as a natural disaster, pandemic spread or other catastrophic events that can cause significant financial losses. Direct Risk Transfer allows all risks to be transferred as long they qualify for a parametric trigger.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>DRT Marketplace</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>DRT Marketplace</p></figcaption></figure>
 
 A parametric trigger is a predetermined condition/ threshold that triggers the payment of a pre-agreed sum of money to the beneficiary of a risk transfer arrangement. This trigger type is typically used for insurance or reinsurance contracts designed to protect against specific event risks. For example, the magnitude of an earthquake, the speed of a hurricane and also the number of people infected by a virus or river levels.
 

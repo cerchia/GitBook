@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Select Blockchain</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Successfully connected Wallet --> check whether right address is mapped</p></figcaption></figure>
 

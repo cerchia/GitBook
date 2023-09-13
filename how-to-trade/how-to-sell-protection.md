@@ -1,4 +1,4 @@
-# How to sell protection
+# How to sell Protection
 
 As a protection buyer, you need to make sure you fulfil the [prerequisites](../how-does-risk-transfer-work/prerequisites.md) to access the marketplace. Also, you must have completed the [onboarding](../legal/kyb-aml.md). Note that currently, only professional investors can participate in the marketplace.
 
@@ -6,7 +6,7 @@ When buying protection, opt for the marketplace and choose a market which reflec
 
 The markets are composed of indices, sorted into main categories (e.g. geophysical) and, event type (e.g. earthquake), and region (e.g. Indonesia).
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Select your Index</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Select your Index</p></figcaption></figure>
 
 Once an index is selected, you can parameterize the desired protection you want to buy or sell.
 

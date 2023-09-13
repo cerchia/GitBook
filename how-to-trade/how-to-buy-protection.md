@@ -1,4 +1,4 @@
-# How to buy protection
+# How to buy Protection
 
 As a protection buyer, you must ensure you fulfil the [prerequisites](../how-does-risk-transfer-work/prerequisites.md) to access the marketplace. Also, you must have completed the [onboarding](../legal/kyb-aml.md). Note that currently, only professional investors can participate in the marketplace.
 
@@ -6,7 +6,7 @@ When buying protection, opt for the marketplace and choose a market which reflec
 
 The markets are composed of indices, sorted into main categories (e.g. geophysical), event type (e.g. earthquake), and region (e.g. Indonesia).
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Select your Index</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Select your Index</p></figcaption></figure>
 
 Once an index is selected, you can parameterize the desired protection you want to buy or sell.
 
@@ -20,6 +20,6 @@ In case nothing shows up, there are no open orders on the board, and you either 
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
-{% content-ref url="../how-does-risk-transfer-work/short-demo.md" %}
-[short-demo.md](../how-does-risk-transfer-work/short-demo.md)
+{% content-ref url="../getting-started/short-demo.md" %}
+[short-demo.md](../getting-started/short-demo.md)
 {% endcontent-ref %}
