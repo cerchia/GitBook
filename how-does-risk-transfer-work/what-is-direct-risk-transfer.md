@@ -10,7 +10,7 @@ Direct Risk Transfer simplifies the traditional Risk Transfer process with a sta
 
 The blockchain is used as a bulletin board where Buyers and Sellers can place their offers or match an existing offer bilaterally.
 
-Conceptually, DRT requires a protection buyer to deposit a premium in secure [escrow](automated-escrow.md) and a protection seller to accept such an offer (“bid”) by depositing the protection amount reduced by said premium in the same escrow. Vice versa, a protection seller can offer to sell protection by depositing a protection amount reduced by the requested premium in escrow (“ask”). A protection buyer can accept this offer by depositing the required premium in escrow. All cash flows are settled in a limited range of collateralized stablecoins (no crypto or DRSK Tokens).
+Conceptually, DRT requires a protection buyer to deposit a premium in secure [escrow](smart-contract-escrow.md) and a protection seller to accept such an offer (“bid”) by depositing the protection amount reduced by said premium in the same escrow. Vice versa, a protection seller can offer to sell protection by depositing a protection amount reduced by the requested premium in escrow (“ask”). A protection buyer can accept this offer by depositing the required premium in escrow. All cash flows are settled in a limited range of collateralized stablecoins (no crypto or DRSK Tokens).
 
 As a bilaterally agreed financial derivative, the buyer and the seller ensure their eligibility and compliance to transact such contract under local laws and, where applicable, cross borders.
 

@@ -6,7 +6,7 @@ Head to [https://direct-risk-transfer.io/](https://direct-risk-transfer.io/) and
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ Make sure that you have Installed a supported Wallet. See more details about wal
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ If you want to check what deals are currently open for a given index, click the 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ If you are interested in an open deal, select it. Else, follow the below steps.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ If you want to start trading, click "Transact".
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,6 +54,6 @@ Once you have clicked Transact you land on the corresponding Marketplace. Here y
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>

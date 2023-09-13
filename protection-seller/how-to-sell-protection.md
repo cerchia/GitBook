@@ -14,7 +14,7 @@ Select the **reference currency** you want to trade on the top right (e.g. USDC)
 
 Once selected, you can scan the marker to check for any open Asks or Bids.&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Parameterise DRT and scan the market</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Parameterise DRT and scan the market</p></figcaption></figure>
 
 In case nothing shows up, there are no open orders on the board, and you either change the parameters or place an open order, Ask or Bid yourself. If you want to see all open orders for an Index head back to the Marketplace tab and hit the browse button.
 

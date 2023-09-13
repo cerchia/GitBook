@@ -47,4 +47,4 @@ Find here the ways to [acquire AVAX](https://milkroad.com/buy/avax/)
 
 ### Happy Trading
 
-To see how you can trade on our platform, watch the video [here](../short-demo.md) or [contact](mailto:feedback@cerchia.io) us if you need more info.
+To see how you can trade on our platform, watch the video [here](../../how-does-risk-transfer-work/short-demo.md) or [contact](mailto:feedback@cerchia.io) us if you need more info.

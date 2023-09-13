@@ -1,4 +1,4 @@
-# Smart Contract Escrow
+# Automated Escrow
 
 A Smart Contract (SC) serves as escrow for the users' deposit funds: A Buyer sends the Premium, and a Seller sends the "discounted notional", i.e. the Notional - Premium. The total amount (the Notional) is locked in the SC if an offer is matched. Both parties can cancel their offer if it has not been matched and receive their funds back.
 
