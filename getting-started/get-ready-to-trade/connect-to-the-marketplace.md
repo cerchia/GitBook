@@ -10,7 +10,7 @@ Head to [https://direct-risk-transfer.io/](https://direct-risk-transfer.io/) and
 
 </div>
 
-Make sure that you have Installed a supported Wallet. See more details about wallets under the following [link](../../architecture/wallet.md). Once connected, click "Marketplace".
+Make sure you have Installed a supported Wallet. See more details about wallets under the following [link](../../architecture/wallet.md). Once connected, click "Marketplace".
 
 <div align="left">
 
@@ -50,7 +50,7 @@ If you want to start trading, click "Transact".
 
 </div>
 
-Once you have clicked Transact you land on the corresponding Marketplace. Here you can define [parameters](../../how-to-trade/understanding-the-parameters.md) in line with your requirements. Find more details on how do define your ideal trade, in this [dedicated section](../../how-to-trade/understanding-the-parameters.md). Before you can start trading a [KY](../../legal/kyb-aml.md)[B ](../../legal/kyb-aml.md)verification is required. Click "Verify Business Account".
+Once you have clicked transact you land on the corresponding Marketplace. Here you can define [parameters](../../how-to-trade/understanding-the-parameters.md) in line with your requirements. Find more details on how do define your ideal trade, in a [dedicated section](../../how-to-trade/understanding-the-parameters.md). Before you can start trading a [KY](../../legal/kyb-aml.md)[B ](../../legal/kyb-aml.md)verification is required. Click "Verify Business Account".
 
 <div align="left">
 
