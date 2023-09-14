@@ -1,6 +1,6 @@
 # Understanding the Parameters
 
-You can only place a deal or match an open order when all parameters are defined.
+You can place a deal or match an open order once all parameters are defined.
 
 Parameters include:
 
@@ -10,13 +10,11 @@ Parameters include:
 * Strike
 * Term
 
-
-
 {% hint style="info" %}
 Note that the selected currency and the blockchain are essential parameters as well. If the currency or blockchain deviates from a potential counterparty you won't see its open order or vice versa.
 {% endhint %}
 
-Once all parameters are selected, the system assigns a "Symbol" which is the reference to a marketplace. You can trade with counterparties which are eager to trade with the exact same parameters.
+Once all parameters are selected, the system assigns a "symbol" which is the reference to a marketplace. You can trade with counterparties which are eager to trade with the exact same parameters.
 
 <div align="left">
 
@@ -24,7 +22,7 @@ Once all parameters are selected, the system assigns a "Symbol" which is the ref
 
 </div>
 
-An important parameter is the strike level. In below example you see industry loss in USD for a peril. The amount refers to the loss insurance companies expect caused by a peril. Stikes can have any value which can be binary determined - where a true or false condition can be made.
+An important parameter is the strike level. In below example you see industry loss in USD for a peril. The amount refers to the loss insurance companies expect caused by a peril. Stikes can have any value which can be binary determined - where a true or false condition can be met.
 
 <div align="left">
 
