@@ -22,6 +22,41 @@ Once all parameters are selected, the system assigns a "symbol" which is the ref
 
 </div>
 
+**Symbol/ Standard: AABBCCDDEEFFFGH**
+
+* _AA - Country_
+* _BB - Type = Meteorological/ Climatological/ Cyber etc._
+* _CC - Peril = Hurricane/ Wildfire etc._
+* _DD - Region = Florida/ California etc._
+* _EE - Index = e.g. IL (Industry Loss)_
+* _FFF - Strike Level in USD bn_
+* _G - Month of expiry according to futures codes_
+* _H - Year of expiry_
+
+Find in the following two example Symbols:
+
+**GLCYALNOIL010Z23**
+
+* GL = Global
+* CY = Cyber
+* AP = all perill
+* NO = no region
+* IL = Industry Loss
+* 010 = 10bn
+* Z = December
+* 23 = 2023
+
+**USMEHUFLIL100U23**
+
+* US - Country
+* ME - Type = Meteorological
+* HU - Peril = Hurricane
+* FL - Region = Florida
+* IL - Index = Industry Loss
+* 100 - Strike
+* U - Month of expiry according to futures codes
+* 23 - Year of expiry
+
 An important parameter is the strike level. In below example you see industry loss in USD for a peril. The amount refers to the loss insurance companies expect caused by a peril. Stikes can have any value which can be binary determined - where a true or false condition can be met.
 
 <div align="left">
