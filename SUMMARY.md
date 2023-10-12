@@ -23,6 +23,7 @@
 * [Automated Escrow](how-does-risk-transfer-work/smart-contract-escrow.md)
 * [Risk Types (Index) and Trigger](how-does-risk-transfer-work/risk-types-index-and-trigger.md)
 * [Risk Standards and Data](how-does-risk-transfer-work/risk-standards-and-data.md)
+* [US Treasuries Collateral for Escrow](how-does-risk-transfer-work/us-treasuries-collateral-for-escrow.md)
 * [Decentralized Marketplace](how-does-risk-transfer-work/decentralized-marketplace.md)
 * [Prerequisites](how-does-risk-transfer-work/prerequisites.md)
 * [Glossary](how-does-risk-transfer-work/glossary.md)
