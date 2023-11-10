@@ -18,7 +18,7 @@ Once selected, you can scan the marker for open Asks or Bids.&#x20;
 
 In case nothing shows up, there are no open orders on the board, and you either change the parameters or place an open order, Ask or Bid yourself if you are curious to see all open orders for an Index, head back to the Marketplace tab and hit the browse button.
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 {% content-ref url="../how-does-risk-transfer-work/short-demo.md" %}
 [short-demo.md](../how-does-risk-transfer-work/short-demo.md)

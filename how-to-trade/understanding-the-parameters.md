@@ -69,7 +69,7 @@ Terms are mainly set in 3-months units. This supports the mission to standartise
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
