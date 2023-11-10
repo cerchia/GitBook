@@ -13,6 +13,7 @@
 
 * [Understanding the Parameters](how-to-trade/understanding-the-parameters.md)
 * [Calculating the Premium](how-to-trade/calculating-the-premium.md)
+* [Setting the Strike](how-to-trade/setting-the-strike.md)
 * [How to buy Protection](protection-buyer/how-to-buy-protection.md)
 * [How to sell Protection](protection-seller/how-to-sell-protection.md)
 * [Fees](protection-buyer/fees.md)

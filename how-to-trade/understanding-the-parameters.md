@@ -61,7 +61,7 @@ An important parameter is the strike level. In below example you see industry lo
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -69,7 +69,7 @@ Terms are mainly set in 3-months units. This supports the mission to standartise
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -82,6 +82,6 @@ Once a Standard is selected you can place your Ask or Bid offer.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>

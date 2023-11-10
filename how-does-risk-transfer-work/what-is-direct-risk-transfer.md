@@ -6,7 +6,7 @@ Risk transfer is a common risk management technique where an entity's potential 
 
 Direct Risk Transfer simplifies the traditional Risk Transfer process with a standardized contract to transfer risk peer-to-peer. Direct Risk Transfer directly (with no intermediaries) connects those seeking protection from event risks (Protection Buyer) and those who provide protection (Protection Seller) in a decentralized way. Buyers buy protection by offering a Premium, and Sellers sell protection to generate a yield. The size (amount) of the protection is called the Notional. Protection is against events based on an [Index](risk-types-index-and-trigger.md) (e.g., an earthquake in a certain region) and further defined on standardized terms (e.g., the level of the earthquake and the protection term). Users can choose from a set of predefined event risks and standardized terms. DRT [contracts](../legal/master-agreement-+-termsheet.md) are not insurance but financial products and, thus, do not require any counterparty to be an insurer.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Direct Risk Transfer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Direct Risk Transfer</p></figcaption></figure>
 
 The blockchain is used as a bulletin board where Buyers and Sellers can place their offers or match an existing offer bilaterally.
 
