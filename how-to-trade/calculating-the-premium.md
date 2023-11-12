@@ -2,13 +2,13 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Defining the premium</p></figcaption></figure>
 
-The marketplace ongoingly integrates data sources with historical data, risk parameters and models to help market participates defining the right premium.
+The marketplace ongoingly integrates data sources with historical data, risk parameters and models to help market participates with defining the right premium.
 
 Please consult our partnering firms or an independent risk modeler, specialized in parametric insurance to support you.
 
 Find in the following further details on the subject and some steps to consider while calculating a suitable premium.
 
-As a rule of thumb, the premium should always compensate for the risk taken, which means the probability of the trigger event.
+As a rule of thumb, the premium should at least compensate for the risk taken, hence should equal the probability of a defined trigger event.
 
 \---
 
