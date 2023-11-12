@@ -52,7 +52,6 @@
 ## Partnerships
 
 * [Becoming a partner](partnerships/becoming-a-partner.md)
-* [Web3 Lloyds of London](partnerships/web3-lloyds-of-london.md)
 
 ## Legal
 
