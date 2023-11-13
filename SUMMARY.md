@@ -3,10 +3,9 @@
 ## 👾 Getting Started
 
 * [Introduction](README.md)
-* [Get ready to Trade](<README (1).md>)
-  * [Connect to the Marketplace](getting-started/get-ready-to-trade/connect-to-the-marketplace.md)
-  * [Verify your Account](getting-started/get-ready-to-trade/verify-your-account.md)
-  * [Get Collateral for Trading](getting-started/get-ready-to-trade/get-collateral-for-trading.md)
+* [Connect to the Marketplace](getting-started/connect-to-the-marketplace.md)
+* [Verify your Account](getting-started/verify-your-account.md)
+* [Get Collateral for Trading](getting-started/get-collateral-for-trading.md)
 * [Short demo](how-does-risk-transfer-work/short-demo.md)
 
 ## ⚡ How to Trade

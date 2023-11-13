@@ -14,7 +14,7 @@ Parameters include:
 Note that the selected currency and the blockchain are essential parameters as well. If the currency or blockchain deviates from a potential counterparty you won't see its open order or vice versa.
 {% endhint %}
 
-Once all parameters are selected, the system assigns a "symbol" which is the reference to a marketplace. You can trade with counterparties which are eager to trade with the exact same parameters.
+Once all parameters are selected, the system assigns a "symbol" which is the reference to a marketplace. You can trade with counterpartiesto trade values which can be binary determined
 
 <div align="left">
 
